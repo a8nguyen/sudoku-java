@@ -1,0 +1,11 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+.project
+.DS_Store
+# Ignore Gradle build output directory
+build
+#No binaries
+*.class
+#weird dot files
+.settings/
+.vscode/
